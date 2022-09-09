@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 
-
-
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 <a href="https://www.linkedin.com/in/heba-alhamaydh/">
+***eng_heba_hamaydh@hotmail.com***
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30px  />
 </a>
 
