@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height=25px />
+### Hi there I'm HebaAlhamaydh<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height=25px />
 
 
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # My Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salehziad&show_icons=true&theme=radical&text_color=FFFFFF&bg_color=000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaAlhamaydh&show_icons=true&theme=radical&text_color=FFFFFF&bg_color=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salehziad&layout=compact&card_width=445px&bg_color=000000&text_color=FFFFFF&title_color=ff3377)
 # Contact me
