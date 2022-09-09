@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Heba</h1>
 <h3 align="center">Welcome to my portfolio.</h3>
-![ee](https://github-readme-stats.vercel.app/api?username=mohammadsh96&theme=radical)
+![ee](https://github-readme-stats.vercel.app/api?username=HebaAlhamaydh&theme=radical)
 ## 🙋‍♂️ About Me
 
 - 👨‍💻️ I'm a full stack Web Developer
