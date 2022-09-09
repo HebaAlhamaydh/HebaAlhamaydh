@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/hebaAlhamaydh">
-        <img title="🔥 Streak stats for Esam's profile" alt="Esam streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hebaAlhamaydh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Streak stats for HebaAlhamaydh profile" alt="HebaAlhamaydh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hebaAlhamaydh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
